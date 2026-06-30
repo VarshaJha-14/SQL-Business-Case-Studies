@@ -78,14 +78,20 @@ The analysis combines these tables using SQL joins to produce richer business in
 - Budget comparison
 - Worldwide vs Domestic earnings
 - Highest-grossing movie by year
+  <img width="799" height="290" alt="image" src="https://github.com/user-attachments/assets/c06c893e-e82e-41e5-b8e3-2993914b007b" />
+
 
 ---
 
 ### 🎬 Genre Analytics
 
 - Most common movie genres
+
 - Budget distribution by genre
+<img width="446" height="375" alt="image" src="https://github.com/user-attachments/assets/e77d9f57-579e-4888-8461-e2142b28f1c0" />
+
 - Revenue contribution by genre
+<img width="440" height="379" alt="image" src="https://github.com/user-attachments/assets/9dc208f3-897d-43b0-86d9-18d502151747" />
 
 ---
 
